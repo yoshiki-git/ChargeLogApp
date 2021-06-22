@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ChargeLogApp</string>
+    <string name="start_Button">START</string>
+    <string name="stop_Button">STOP</string>
+    <string name="send_notification">充電完了時に通知を送る</string>
+    <string name="not_logging">放電中はログを取得しない</string>
+    <string name="fileName_auto">未実装のスイッチ</string>
+</resources>
